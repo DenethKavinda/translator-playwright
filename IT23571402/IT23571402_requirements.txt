@@ -1,2 +1,1 @@
-openpyxl
-playwright
+https://github.com/DenethKavinda/translator-playwright.git
