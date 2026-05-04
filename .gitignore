@@ -1,0 +1,58 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Installer logs
+*.log
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# dotenv
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite
+*.sqlite3
+
+# Mypy / caches
+.mypy_cache/
+.cache/
+
+# Misc
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+
+
+.playwright-browsers/
+.venv/
+__pycache__/
+*.zip
